@@ -1,4 +1,5 @@
 # Adv-asp.net
+[![CI](https://github.com/sajidkamaljoy/Adv-asp.net/actions/workflows/ci.yml/badge.svg)](https://github.com/sajidkamaljoy/Adv-asp.net/actions/workflows/ci.yml)
 
 Coursework for an advanced ASP.NET course: three separate ASP.NET MVC 5 projects (.NET Framework 4.7.2), each in its own folder.
 
