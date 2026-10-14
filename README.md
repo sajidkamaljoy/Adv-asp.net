@@ -1,6 +1,8 @@
 # Adv-asp.net
 [![CI](https://github.com/sajidkamaljoy/Adv-asp.net/actions/workflows/ci.yml/badge.svg)](https://github.com/sajidkamaljoy/Adv-asp.net/actions/workflows/ci.yml)
 
+> **Note:** this project was originally developed under my earlier GitHub account, [sajid43677/Adv-asp.net](https://github.com/sajid43677/Adv-asp.net), and was moved to this account in October 2026.
+
 Coursework for an advanced ASP.NET course: three separate ASP.NET MVC 5 projects (.NET Framework 4.7.2), each in its own folder.
 
 | Project | What it is |
